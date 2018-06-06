@@ -1,13 +1,21 @@
 {
-  "name": "One-Col-Portfolio",
+  "name": "one-col-portfolio",
   "version": "1.0.0",
+  "main": "index.js",
   "description": "One Column Portfolio is the  Bootstrap 4 Template for portfolio showcase.",
   "keywords": [
     "portfolio template",
     "one column template",
     "1 column portfolio",
     "showcase template",
-    "Bootstrap 4 Template"
+    "Bootstrap 4 Template",
+    "HTML",
+    "SCSS",
+    "CSS",
+    "Bootstrap",
+    "responsive",
+    "theme",
+    "template"
   ],
   "homepage": "https://orbitthemes.com/downloads/1-col-portfolio/",
   "author": "Orbit Themes <themesorbit@gmail.com> (https://orbitthemes.com)",
