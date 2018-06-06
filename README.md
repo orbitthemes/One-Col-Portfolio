@@ -73,11 +73,11 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/orbitthemes/One-Col-Portfolio/issues) here on GitHub or leave a comment on the [template overview page at Orbit Themes](https://orbitthemes.com/downloads/1-col-portfolio/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/orbitthemes/One-Col-Portfolio/issues) on GitHub or leave a comment on the [template overview page at Orbit Themes](https://orbitthemes.com/downloads/1-col-portfolio/).
 
 ## Custom Builds
 
-You can hire Orbit Themes to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[Contact Us Page](https://orbitthemes.com/contact/)**.
+You can hire Orbit Themes to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[Contact Page](https://orbitthemes.com/contact/)**.
 
 <!-- ## Other Templates -->
 <!-- List Other Templates Of Orbit Themes -->
@@ -88,32 +88,32 @@ You can hire Orbit Themes to create a custom build of any template, or create so
 ## How to contribute
 
 To contribute, please ensure that you have stable Node.js and npm installed.
-Test if Gulp CLI is installed by running gulp --version. If the command isn't found, run npm install -g gulp. For more information about installing Gulp, see the [Gulp's Getting Started!](https://gulpjs.org/getting-started).
+Test if Gulp CLI is installed by running `gulp --version`. If the command isn't found, run `npm install -g gulp`. For more information about installing Gulp, see the [Gulp's Getting Started!](https://gulpjs.org/getting-started).
 
-To have all gulp dependencies run npm install
+To have all gulp dependencies run `npm install`
 
 If gulp is installed, follow the steps below.
 
-Fork and clone the repository.
-Run gulp dev, this will open templateName on your default browser
-Now you can code, code and code!
-Submit a pull request.
+* Fork and clone the repository.
+* Run `gulp dev`, this will open Template on your default browser.
+* Now you can code, code and code!
+* Submit a pull request.
 
 ## About
 
 Orbit Themes is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Orbit Themes are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* https://orbitthemes.com
-* https://twitter.com/orbitthemes
-* https://www.facebook.com/orbitthemes/
-* https://plus.google.com/+orbitthemes
-* https://github.com/orbitthemes
-* https://www.behance.net/orbitthemes
-* https://dribbble.com/orbitthemes
-* https://www.pinterest.com/orbitThemes/
-* https://www.reddit.com/user/orbitthemes
-* https://www.instagram.com/orbitthemes/
-* https://www.linkedin.com/company/orbit-themes/
+* Web: https://orbitthemes.com
+* Twitter: https://twitter.com/orbitthemes
+* Facebook: https://www.facebook.com/orbitthemes/
+* Google Plus: https://plus.google.com/+orbitthemes
+* Github: https://github.com/orbitthemes
+* Behance: https://www.behance.net/orbitthemes
+* Dribble: https://dribbble.com/orbitthemes
+* Pinterest: https://www.pinterest.com/orbitThemes/
+* Reddit: https://www.reddit.com/user/orbitthemes
+* Instagram: https://www.instagram.com/orbitthemes/
+* LinkedIn: https://www.linkedin.com/company/orbit-themes/
 
 Orbit Themes was created by and is maintained by **[Sandeep Prasad Bhatt](http://sandeepbhatt.com.np/)** .
 
@@ -136,5 +136,4 @@ Orbit Theme Templates and Themes are based on the [Bootstrap](http://getbootstra
 
 Copyright 2018 Orbit Themes. Code released under the [MIT](https://raw.githubusercontent.com/orbitthemes/One-Col-Portfolio/master/LICENSE).
 
-# Visit Website
-### [Orbit Themes](https://www.orbitthemes.com)
+## Visit Website: https://www.orbitthemes.com
