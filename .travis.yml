@@ -6,8 +6,7 @@ install:       npm install
 script:
   - npm test
   - gulp
-after_script:
-- npm run report-coverage
+after_success: 'npm run coveralls'
 cache:
   directories:
     - "node_modules"
