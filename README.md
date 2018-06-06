@@ -11,9 +11,9 @@
 **[View Live Preview](https://orbitthemes.com/preview/1ColPortfolio/)**
 
 ## Status
-[![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg)](https://orbitthemes.com/preview/1ColPortfolio/)
+[![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)](https://github.com/orbitthemes/One-Col-Portfolio)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/orbitthemes/One-Col-Portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg)](https://www.npmjs.com/package/one-col-portfolio)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/one-col-portfolio)
 [![Build Status](https://travis-ci.org/orbitthemes/One-Col-Portfolio.svg?branch=master)](https://travis-ci.org/orbitthemes/One-Col-Portfolio)
 [![dependencies Status](https://david-dm.org/orbitthemes/One-Col-Portfolio/status.svg)](https://david-dm.org/orbitthemes/One-Col-Portfolio)
 [![devDependencies Status](https://david-dm.org/orbitthemes/One-Col-Portfolio/dev-status.svg)](https://david-dm.org/orbitthemes/One-Col-Portfolio?type=dev)
