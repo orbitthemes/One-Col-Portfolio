@@ -2,10 +2,6 @@
   "name": "One-Col-Portfolio",
   "version": "1.0.0",
   "description": "One Column Portfolio is the  Bootstrap 4 Template for portfolio showcase.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "portfolio template",
     "one column template",
