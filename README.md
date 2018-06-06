@@ -33,12 +33,12 @@ To begin using this template, choose one of the following options to get started
 * [Download the latest release on Orbit Themes](https://orbitthemes.com/downloads/1-col-portfolio/)
 * Install via npm: `npm i one-col-portfolio`
 * Clone the repository: `git clone https://github.com/orbitthemes/One-Col-Portfolio.git`
-```javascript
+```sh
     # clone the repository
     $ git clone https://github.com/orbitthemes/One-Col-Portfolio.git
 
     # go into the directory
-    $ cd directoryName
+    $ cd One-Col-Portfolio
 
     # install all dependencies
     $ npm install
