@@ -67,7 +67,7 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp css:compile` compiles the SCSS into CSS file.
 - `gulp css:minify` minifies the compiled CSS file.
 - `gulp css` compiles SCSS files into CSS and minify the css.
-- `gulp js:minify` minifies the JS file for the template.
+- `gulp js` Combines all js scripts to one file named `main.js`, Minify the file, and save it as `main.min.js`.
 - `gulp export` copies dependencies from node_modules to the dist directory.
 - `gulp clean` Removes all the directories inside dist, minified js files and all compiled css files.
 
@@ -131,6 +131,7 @@ Orbit Theme Templates and Themes are based on the [Bootstrap](http://getbootstra
 * [jQuery](http://jquery.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [SASS](https://sass-lang.com/)
+* [Pexels](https://www.pexels.com/)
 
 ## Copyright and License
 
